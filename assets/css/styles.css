@@ -1,13 +1,19 @@
 body {
     margin: 0px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
     font-size: 3em;
+    font-family: 'Iceland', cursive;
 }
 
 h1, h2 {
     color: #C66918;
+}
+
+.menu {
+    font-family: 'Iceland', cursive;
 }
 
 #homepage-block{
